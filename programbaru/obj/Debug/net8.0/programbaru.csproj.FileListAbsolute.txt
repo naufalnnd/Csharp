@@ -1,0 +1,15 @@
+c:\Users\Naufal\Documents\programbaru\programbaru\bin\Debug\net8.0\programbaru.exe
+c:\Users\Naufal\Documents\programbaru\programbaru\bin\Debug\net8.0\programbaru.deps.json
+c:\Users\Naufal\Documents\programbaru\programbaru\bin\Debug\net8.0\programbaru.runtimeconfig.json
+c:\Users\Naufal\Documents\programbaru\programbaru\bin\Debug\net8.0\programbaru.dll
+c:\Users\Naufal\Documents\programbaru\programbaru\bin\Debug\net8.0\programbaru.pdb
+c:\Users\Naufal\Documents\programbaru\programbaru\obj\Debug\net8.0\programbaru.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Naufal\Documents\programbaru\programbaru\obj\Debug\net8.0\programbaru.AssemblyInfoInputs.cache
+c:\Users\Naufal\Documents\programbaru\programbaru\obj\Debug\net8.0\programbaru.AssemblyInfo.cs
+c:\Users\Naufal\Documents\programbaru\programbaru\obj\Debug\net8.0\programbaru.csproj.CoreCompileInputs.cache
+c:\Users\Naufal\Documents\programbaru\programbaru\obj\Debug\net8.0\programbaru.sourcelink.json
+c:\Users\Naufal\Documents\programbaru\programbaru\obj\Debug\net8.0\programbaru.dll
+c:\Users\Naufal\Documents\programbaru\programbaru\obj\Debug\net8.0\refint\programbaru.dll
+c:\Users\Naufal\Documents\programbaru\programbaru\obj\Debug\net8.0\programbaru.pdb
+c:\Users\Naufal\Documents\programbaru\programbaru\obj\Debug\net8.0\programbaru.genruntimeconfig.cache
+c:\Users\Naufal\Documents\programbaru\programbaru\obj\Debug\net8.0\ref\programbaru.dll

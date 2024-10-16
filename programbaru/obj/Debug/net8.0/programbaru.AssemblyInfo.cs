@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("programbaru")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0512c534c4eba244577293f388b41c9072b08d55")]
 [assembly: System.Reflection.AssemblyProductAttribute("programbaru")]
 [assembly: System.Reflection.AssemblyTitleAttribute("programbaru")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

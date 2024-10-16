@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Naufal\\Documents\\programbaru\\programbaru\\programbaru.csproj": {}
+    "c:\\Users\\Naufal\\Documents\\programbaru\\programbaru\\programbaru.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Naufal\\Documents\\programbaru\\programbaru\\programbaru.csproj": {
+    "c:\\Users\\Naufal\\Documents\\programbaru\\programbaru\\programbaru.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Naufal\\Documents\\programbaru\\programbaru\\programbaru.csproj",
+        "projectUniqueName": "c:\\Users\\Naufal\\Documents\\programbaru\\programbaru\\programbaru.csproj",
         "projectName": "programbaru",
-        "projectPath": "C:\\Users\\Naufal\\Documents\\programbaru\\programbaru\\programbaru.csproj",
+        "projectPath": "c:\\Users\\Naufal\\Documents\\programbaru\\programbaru\\programbaru.csproj",
         "packagesPath": "C:\\Users\\Naufal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Naufal\\Documents\\programbaru\\programbaru\\obj\\",
+        "outputPath": "c:\\Users\\Naufal\\Documents\\programbaru\\programbaru\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Naufal\\AppData\\Roaming\\NuGet\\NuGet.Config"
